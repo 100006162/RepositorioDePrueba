@@ -25,4 +25,4 @@ Lista ordenada
 </html>
 ```
 
-[link] (https://es.wikipedia.org/ "Titulo opcional")
+[link] (https://es.wikipedia.org/ "(Titulo opcional")
