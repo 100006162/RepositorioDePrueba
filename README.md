@@ -28,3 +28,10 @@ Lista ordenada
 [link](https://es.wikipedia.org/ "Titulo opcional")
 
 ![Óscar](E_ftAmvXEAIfbTp.jpg "Óscar")
+
+| Titulo  | Titulo 2  | Titulo 3  |
+|---------|:---------:|----------:|
+| Nombre | Apellido  | Apellido 2  |
+| Nombre2 | Apellido 3 | Apellido 4  |
+|Col 3  | está alineada|  derecha
+|col 2  | está alineada |
