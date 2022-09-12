@@ -1,6 +1,6 @@
 # RepositorioDePrueba
 ## Primer repositorio GitHub
-"cursiva" _cursiva_
+*cursiva* _cursiva_
 **negrita** __negrita__
 
 _**negrita**_
