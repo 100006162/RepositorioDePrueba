@@ -27,4 +27,4 @@ Lista ordenada
 
 [link](https://es.wikipedia.org/ "Titulo opcional")
 
-![Óscar](
+![Óscar](https://github.com/100006162/RepositorioDePrueba/blob/main/E_ftAmvXEAIfbTp.jpg "Óscar")
