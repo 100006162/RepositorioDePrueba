@@ -6,6 +6,6 @@
 _**negrita**_
 Primer repositorio GitHub
 
-* Lista
+* **Lista**
 + Elemento 1
 + Elemento 2
